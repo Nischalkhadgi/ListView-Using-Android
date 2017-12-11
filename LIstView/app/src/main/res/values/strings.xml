@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">List</string>
+    <string name="text1">$28.00</string>
+    <string name="text">Clothing Item Name</string>
+    <string name="TextView">Marigold is a very beautiful flower.</string>
+    <string-array name="clothing">
+        <item>Cross-back training tank</item>
+        <item>Stretchy dance pant</item>
+        <item>Ultra-soft tank top</item>
+        <item>V-neck t-shirt</item>
+        <item>V-neck sweater</item>
+        <item>Polo shirt</item>
+        <item>Skater graphic t-shirt</item>
+        <item>Thermal fleece jacket</item>
+        <item>V-neck pullover</item>
+        <item>Grunge skater jeans</item>
+        <item>Thermal vest</item>
+    </string-array>
+    <string name="instructions">Calendula officinalis is a short-lived aromatic herbaceous
+        perennial, growing to 80 cm (31 in) tall, with sparsely branched lax or erect stems.
+        The leaves are oblong-lanceolate, 5–17 cm (2–7 in) long, hairy on both sides,
+        and with margins entire or occasionally waved or weakly toothed.
+        The inflorescences are yellow, comprising a thick capitulum or
+        flowerhead 4–7 cm diameter surrounded by two rows of hairy bracts;
+        in the wild plant they have a single ring of ray florets surrounding
+        the central disc florets. The disc florets are tubular and hermaphrodite,
+        and generally of a more intense orange-yellow colour than the female, tridentate,
+        peripheral ray florets. The flowers may appear all year long where conditions are suitable.
+        The fruit is a thorny curved achene. Calendula officinalis is a short-lived aromatic
+        herbaceous perennial, growing to 80 cm (31 in) tall, with sparsely branched lax or erect
+        stems. The leaves are oblong-lanceolate, 5–17 cm (2–7 in) long, hairy on both sides,
+        and with margins entire or occasionally waved or weakly toothed.
+        The inflorescences are yellow, comprising a thick capitulum or flowerhead 4–7 cm
+        diameter surrounded by two rows of hairy bracts; in the wild plant they have a single
+        ring of ray florets surrounding the central disc florets. The disc florets are tubular
+        and hermaphrodite, and generally of a more intense orange-yellow colour than the female,
+        tridentate, peripheral ray florets. The flowers may appear all year long where conditions
+        are suitable. The fruit is a thorny curved achene.
+    </string>
+    <string name="my_detail_activity">MyDetailActivity</string>
+</resources>
